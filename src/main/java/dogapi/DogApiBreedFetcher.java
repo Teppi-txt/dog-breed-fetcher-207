@@ -2,7 +2,6 @@ package dogapi;
 
 import okhttp3.*;
 import okio.Timeout;
-import org.jetbrains.annotations.NotNull;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
